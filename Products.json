@@ -1,0 +1,212 @@
+{
+    "404181401":{
+        "name": "Dark Chocholates",
+        "mfd_date": "2021-09-20",
+        "exp_date": "2021-10-20",
+        "qty": 50,
+        "price": 200
+    },
+    "404181402":{
+        "name": "Brown Breads",
+        "mfd_date": "2021-09-20",
+        "exp_date": "2021-10-20",
+        "qty": 50,
+        "price": 100
+    },
+    "404181403":{
+        "name": "Milk 1 ltr",
+        "mfd_date": "2021-09-20",
+        "exp_date": "2021-09-22",
+        "qty": 50,
+        "price": 60
+    },
+    "404181404":{
+        "name": "Icecream Chocholates",
+        "mfd_date": "2021-10-20",
+        "exp_date": "2021-11-20",
+        "qty": 100,
+        "price": 150
+    },
+    "404181405":{
+        "name": "Icecream Vanilla",
+        "mfd_date": "2021-10-20",
+        "exp_date": "2021-11-20",
+        "qty": 100,
+        "price": 150
+    },
+    "404181406":{
+        "name": "Icecream Butter Scotch",
+        "mfd_date": "2021-10-20",
+        "exp_date": "2021-11-20",
+        "qty": 100,
+        "price": 150
+    },
+    "404181407":{
+        "name": "Coffee Powder 500g",
+        "mfd_date": "2021-10-20",
+        "exp_date": "2022-11-20",
+        "qty": 80,
+        "price": 400
+    },
+    "404181408":{
+        "name": "Mustered Oil 1 ltr",
+        "mfd_date": "2021-10-20",
+        "exp_date": "2023-10-20",
+        "qty": 500,
+        "price": 180
+    },
+    "404181409":{
+        "name": "Coconut Oil 500g",
+        "mfd_date": "2021-10-20",
+        "exp_date": "2023-10-20",
+        "qty": 30,
+        "price": 300
+    },
+    "404181410":{
+        "name": "Turmuric 200g",
+        "mfd_date": "2021-10-20",
+        "exp_date": "2022-10-20",
+        "qty": 20,
+        "price": 350
+    },
+    "404181411":{
+        "name": "Suger 1 kg [acket",
+        "mfd_date": "2021-10-20",
+        "exp_date": "2024-10-20",
+        "qty": 30,
+        "price": 50
+    },
+    "404181412":{
+        "name": "Salt 1 kg",
+        "mfd_date": "2021-10-20",
+        "exp_date": "2022-10-20",
+        "qty": 50,
+        "price": 30
+    },
+    "404181413":{
+        "name": "Besan 1 kg",
+        "mfd_date": "2021-10-20",
+        "exp_date": "2022-10-20",
+        "qty": 50,
+        "price": 200
+    },
+    "404181414":{
+        "name": "Face wash",
+        "mfd_date": "2021-10-20",
+        "exp_date": "2023-10-20",
+        "qty": 50,
+        "price": 300
+    },
+    "404181415":{
+        "name": "Biscuits",
+        "mfd_date": "2021-10-20",
+        "exp_date": "2022-10-20",
+        "qty": 50,
+        "price": 100
+    },
+    "404181416":{
+        "name": "Bath Soap",
+        "mfd_date": "2021-10-20",
+        "exp_date": "2023-10-20",
+        "qty": 50,
+        "price": 70
+    },
+    "404181417":{
+        "name": "Detergent powder 1 kg",
+        "mfd_date": "2021-10-20",
+        "exp_date": "2023-10-20",
+        "qty": 50,
+        "price": 450
+    },
+    "404181418":{
+        "name": "Dish Washer",
+        "mfd_date": "2021-10-20",
+        "exp_date": "2023-10-20",
+        "qty": 50,
+        "price": 400
+    },
+    "404181419":{
+        "name": "Tooth Paste",
+        "mfd_date": "2021-10-20",
+        "exp_date": "2022-10-20",
+        "qty": 100,
+        "price": 100
+    },
+    "404181420":{
+        "name": "Face Cream",
+        "mfd_date": "2021-10-20",
+        "exp_date": "2023-10-20",
+        "qty": 30,
+        "price": 350
+    },
+    "404181421":{
+        "name": "Hair Oil",
+        "mfd_date": "2021-10-20",
+        "exp_date": "2022-10-20",
+        "qty": 50,
+        "price": 521
+    },
+    "404181422":{
+        "name": "Shampoo",
+        "mfd_date": "2021-10-20",
+        "exp_date": "2023-10-20",
+        "qty": 100,
+        "price": 300
+    },
+    "404181423":{
+        "name": "Hair Conditioner",
+        "mfd_date": "2021-10-20",
+        "exp_date": "2023-10-20",
+        "qty": 60,
+        "price": 350
+    },
+    "404181424":{
+        "name": "Body Lotion",
+        "mfd_date": "2021-10-20",
+        "exp_date": "2023-10-20",
+        "qty": 120,
+        "price": 240
+    },
+    "404181425":{
+        "name": "Dry Fruits",
+        "mfd_date": "2021-10-20",
+        "exp_date": "2023-10-20",
+        "qty": 50,
+        "price": 600
+    },
+    "404181426":{
+        "name": "Soft Drinks",
+        "mfd_date": "2021-10-20",
+        "exp_date": "2022-10-20",
+        "qty": 200,
+        "price": 100
+    },
+    "404181427":{
+        "name": "Moisturizer",
+        "mfd_date": "2021-10-20",
+        "exp_date": "2022-10-20",
+        "qty": 50,
+        "price": 200
+    },
+    "404181428":{
+        "name": "Hand Wash",
+        "mfd_date": "2021-10-20",
+        "exp_date": "2022-10-20",
+        "qty": 500,
+        "price": 200
+    },
+    "404181429":{
+        "name": "Hand Sanitizer",
+        "mfd_date": "2021-10-20",
+        "exp_date": "2024-10-20",
+        "qty": 50,
+        "price": 150
+    },
+    "404181430":{
+        "name": "Pickles",
+        "mfd_date": "2021-10-20",
+        "exp_date": "2022-10-20",
+        "qty": 500,
+        "price": 100
+    }
+}
